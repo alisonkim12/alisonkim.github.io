@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Welcome to Alison's page!
-subtitle: I'm an aspiring computer scientist and educational abolitionist
+description: I'm an aspiring computer scientist and educational abolitionist
 ---
 
 ## About Alison
