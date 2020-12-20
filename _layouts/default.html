@@ -13,11 +13,12 @@
     {% endif %}
     <meta charset="UTF-8">
 
+
 {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/backgroundimage.jpeg' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
@@ -26,11 +27,12 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
-        <a href="{{ ./another-page.html }}" class="btn">About Me</a>
+        <a href="./another-page.html" class="btn">About Me</a>
       {% endif %}
       {% if site.show_downloads %}
-        <a href="{{ ./another-page.html }}" class="btn">CV</a>
-        <a href="{{ ./another-page.html }}" class="btn">CS Readings</a>
+        <a href="./another-page.html" class="btn">CV</a>
+        <a href="./another-page.html" class="btn">CS Reading List</a>
+        <a href="./another-page.html" class="btn">Ongoing works</a>
       {% endif %}
     </header>
 
