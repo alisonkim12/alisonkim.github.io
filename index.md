@@ -1,116 +1,18 @@
 ---
 layout: default
+title: Welcome to Alison's page!
+description: <I'm an aspiring computer scientist and educational abolitionist>
+
 ---
 # Brief introduction
 
 I'm Alison, a sophomore at Swarthmore College studying computer science, educational studies, and the critical theory of technology. If you are interested in any of the aforementioned disciplines, stick around! In this website I will highlight some of the projects and initiatives I am a part of, including a research project, a college access program, written reflections of literary works related to science, technology, and society (STS).
 
-If you are interested to learn more about me,[click here](./about.html).
+If you are interested to learn more about me, [click here](./about.html).
 
-## Header 2
+# I am interested in exploring the following questions:
+1. How can we decentralize and deconstruct western, eurocentric ideologies of progress and innovation by reimagining the Computer Science curriculum in higher academia and introduce the history of modern technology and computer science as blooming from 1960s counterculture that implicitly endowed the silicon valley billionaire liberal communists of our generation under the guise of a self made, modern "savior"?
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+2. How does Critical Race Theory (especially regarding the ongoing Algorithmic Bias, and Machine Learning Bias affecting black and brown communities) allow us to reimagine modern technology as a form of politics in and of itself, through its power of altering and influencing the capacity and the direction of specific human action and thought?
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+3. How is the growing world of convenience and accessibility through technological advancements in a late capitalist society a detriment to our phenological capacity to feel, live, think critically, and burnout?

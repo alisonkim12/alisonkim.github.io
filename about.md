@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About me
-description: A bit more information about me
+title: Welcome to Alison's page!
+description: <I'm an aspiring computer scientist and educational abolitionist>
 ---
 
 ## About Alison
