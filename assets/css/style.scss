@@ -1,7 +1,7 @@
 ---
 ---
 
-//@import 'jekyll-theme-cayman';
+@import 'jekyll-theme-cayman';
 
 body {
   margin: 10;
@@ -11,6 +11,6 @@ img {
   width: 600;
   height: 400;
   padding: 50vh 50vw;
-  background: url(http://lorempixel.com/1500/1000/city/Dummy-Text) no-repeat;
+  background: url(http://lorempixel.com/1500/1000/city/Dummy-Text);
   background-size: cover;
 }
