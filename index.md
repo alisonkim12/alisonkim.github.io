@@ -1,19 +1,12 @@
 ---
 layout: default
 ---
+# Brief introduction
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I'm Alison, a sophomore at Swarthmore College studying computer science, educational studies, and the critical theory of technology. If you are interested in any of the aforementioned disciplines, stick around! In this website I will highlight some of the projects and initiatives I am a part of, including a research project, a college access program, written reflections of literary works related to science, technology, and society (STS).
 
+If you are interested to learn more about me,[click here](./about.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-[Click here](./about.html).
 ## Header 2
 
 > This is a blockquote following a header.
