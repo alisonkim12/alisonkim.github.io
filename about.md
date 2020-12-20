@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome to Alison's page!
+title: Hi, I'm Alison
 description: I'm an aspiring computer scientist and educational abolitionist
 ---
 
@@ -18,4 +18,4 @@ Here are other things I love:
 *  Public transportation, especially trains
 *  Heavy body modifications
 
-In school, I am part of Tech for Social Good, Swatties for Immigrant Rights, BarrioEd and more. For a comprehensive list of my extracurriculars, please refer to my CV.
+In school, I am part of Tech for Social Good, Swatties for Immigrant Rights, BarrioEd and more. For a comprehensive list of my extracurriculars, please refer to my [CV](./cv.html).

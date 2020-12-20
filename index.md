@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Welcome to Alison's page!
+title: Hi, I'm Alison
 description: I'm an aspiring computer scientist and educational abolitionist
-cover-img: /assets/css/backgroundimage.jpeg
 
 
 ---
