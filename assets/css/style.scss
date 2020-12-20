@@ -3,6 +3,14 @@
 
 @import 'jekyll-theme-cayman';
 
-.page-header{
-background-image:"assests/css/backgroundimage.jpeg";
+body {
+  margin: 0;
+}
+img {
+  position: fixed;
+  width: 0;
+  height: 0;
+  padding: 50vh 50vw;
+  background: url(http://lorempixel.com/1500/1000/city/Dummy-Text) no-repeat;
+  background-size: cover;
 }

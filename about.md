@@ -16,5 +16,6 @@ Here are other things I love:
 *  Anime: Toyko Ghost, Death Parade, every studio ghibli film, Midori: Shojo Tsubaki, Belladonna of Sadness, Perfect Blue, and Garden of Words
 *  Androgynous haircuts, anime characters, clothing, and names
 *  Public transportation, especially trains
+*  Heavy body modifications
 
 In school, I am part of Tech for Social Good, Swatties for Immigrant Rights, BarrioEd and more. For a comprehensive list of my extracurriculars, please refer to my CV.
