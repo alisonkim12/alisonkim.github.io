@@ -4,18 +4,24 @@ title: Hi, I'm Alison
 description: I'm an aspiring computer scientist and educational abolitionist
 ---
 
-## About Alison
+## Current Readings
 
-Hi! My name is Alison (she/her) and I am a current sophomore at Swarthmore College. My primary interests are computer science, educational studies, and STS, especially the critical theory of technology.
+I believe the ability to digitize and share incredibly eye-opening works about the rectitude of how we should use and see computer science as a force of good is pertinent. That said, it is crucial to analyze, criticize, and reform the CS industry and CS education through various social and philosophical texts. And most importantly, my opinions rightfully evolve as I consume more and more information; hope this can be a space where we can all learn together!
 
-Here are other things I love:
+I have gathered these readings through the generous guidance various public resources, current CS undergrad and PhD students. Would not been able to have such a comprehensive collection if it weren't for many wonderful folx in the industry. To the best of my ability, I have categorized my readings as such (keep in mind that in the end, all of these readings cannot fall under any one category, every idea connects to each other!)
 
-*  Cyberpunk aesthetic and techwear
-*  Artistic works of Takato Yamamoto, Agnes Martin and Shingo Tamagawa
-*  Music from: Fiona Apple, The Velvet Underground, Julia Jacklin, Mother Mother, Radiohead, Neutral Milk Hotel, Angel Olsen, Adrianne Lenker, and Bjork
-*  Anime: Toyko Ghost, Death Parade, every studio ghibli film, Midori: Shojo Tsubaki, Belladonna of Sadness, Perfect Blue, and Garden of Words
-*  Androgynous haircuts, anime characters, clothing, and names
-*  Public transportation, especially trains
-*  Heavy body modifications
+* Ethics of Technology
+* Politics, Power, Agency in Tech | Digital Rights
+* Critical Race Theory and Tech
+* Algorithmic Bias and Machine Bias | Inclusive Design
+* Combating Western/Eurocentric Ideologies of Progress and Innovation | Tech Colonialism
+* Indigenous Studies on Technology and Innovation
+* CS Education
 
-In school, I am part of Tech for Social Good, Swatties for Immigrant Rights, BarrioEd and more. For a comprehensive list of my extracurriculars, please refer to my [CV](./cv.html).
+
+
+
+
+
+
+May this help anyone on their own academic journey. Feel free to reach out and recommend me more things to read!
