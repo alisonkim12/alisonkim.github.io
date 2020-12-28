@@ -5,6 +5,7 @@ description: I'm an aspiring computer scientist and educational abolitionist
 ---
 
 # Ongoing project and initiatives
+Here are some of the things I am doing this year!
 
 ## CS Energy project
 I am currently working with [Professor Kevin Webb](https://www.cs.swarthmore.edu/~kwebb/) in the CS department to create a system that allows lab computers to self regulate themselves in a way that minimizes energy usage. While we have a working system, it is very difficult to start conducting tests (to quantify effectiveness) because the CS department facilities are closed. We hope that by Fall 2021, we can start collecting data and publish our results through a research paper. Here is the current [github](https://github.com/alisonkim12/CSEnergyProject) of one component (the rest is under Kevin's repo!)
@@ -25,4 +26,4 @@ I personally believe that the CS department at Swarthmore desperately needs to e
 My dream is to be able to teach a student-led course about the critical theory of technology with Tech for Social Good members. We are currently working on building a curriculum that we hope to teach in in Fall 2021. If you are potentially interested, please let me know!
 
 ## Next internship: LEDA Health
-The next internship that I will be partaking in is starting Jan 2021 with [LEDA health](https://www.leda.co). 
+The next internship that I will be partaking in is starting Jan 2021 with [LEDA health](https://www.leda.co).
