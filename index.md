@@ -18,4 +18,4 @@ Email: skim7@swarthmore.edu
 
 2. How does Critical Race Theory (especially regarding the ongoing Algorithmic Bias, and Machine Learning Bias affecting black and brown communities) allow us to reimagine modern technology as a form of politics in and of itself, through its power of altering and influencing the capacity and the direction of specific human action and thought?
 
-3. How is the growing world of convenience and accessibility through technological advancements in a late capitalist society a detriment to our phenological capacity to feel, live, think critically, and burnout?
+3. How is the growing world of convenience and accessibility through technological advancements in a late capitalist society a detriment to our phenological capacity to feel, live, think critically, and [burnout](https://www.sup.org/books/title/?id=25725)?
