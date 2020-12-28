@@ -9,5 +9,5 @@ cover-img: /assets/css/backgroundimage.jpeg
 
 ## CV
 
-For my CV, please click [here](./Alison's CV-4.pdf). 
+For my CV, please click ![here](./Alison's CV-4.pdf). 
 .
