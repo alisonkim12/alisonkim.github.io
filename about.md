@@ -13,7 +13,7 @@ Here are other things I love:
 *  Cyberpunk aesthetic and techwear
 *  Artistic works of Takato Yamamoto, Agnes Martin and Shingo Tamagawa
 *  Music from: Fiona Apple, The Velvet Underground, Julia Jacklin, Mother Mother, Radiohead, Neutral Milk Hotel, Angel Olsen, Adrianne Lenker, and Bjork
-*  Anime: Toyko Ghost, Death Parade, every studio ghibli film, Midori: Shojo Tsubaki, Belladonna of Sadness, Perfect Blue, and Garden of Words
+*  Anime: Toyko Ghoul, Death Parade, every studio ghibli film, Midori: Shojo Tsubaki, Belladonna of Sadness, Perfect Blue, and Garden of Words
 *  Androgynous haircuts, anime characters, clothing, and names
 *  Public transportation, especially trains
 *  Heavy body modifications
